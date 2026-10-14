@@ -13,7 +13,7 @@ public class DecimalToBinary {
         return binary.toString();
     }
     public static void main(String[] args) {
-        int decimal =200;
+        int decimal =987654321;
         System.out.println(decimal+" = "+convertDecimalToBinary(decimal));
     }
 }
